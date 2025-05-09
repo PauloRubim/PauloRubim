@@ -1,4 +1,4 @@
-## Oiii eu sou o Paulo Rubim, engenheiro de computação e cientista de dados.
+## Olá, eu sou o Paulo Rubim, Engenheiro de Computação vivenciando o mundo dos dados.
 
 <div style="display: inline_block"><br>
 
